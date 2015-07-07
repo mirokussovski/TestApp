@@ -9,7 +9,7 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("testapp");
+            Console.WriteLine("change");
         }
     }
 }
